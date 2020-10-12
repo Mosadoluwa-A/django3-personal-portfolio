@@ -1,0 +1,26 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1594338739818/work
+atomicwrites==1.4.0
+attrs @ file:///tmp/build/80754af9/attrs_1600298409949/work
+certifi==2020.6.20
+colorama==0.4.3
+coverage==5.3
+Django @ file:///tmp/build/80754af9/django_1601563330930/work
+iniconfig @ file:///tmp/build/80754af9/iniconfig_1596827328212/work
+more-itertools @ file:///tmp/build/80754af9/more-itertools_1598884071673/work
+mypy @ file:///tmp/build/80754af9/mypy_1593442617121/work
+mypy-extensions==0.4.3
+packaging==20.4
+Pillow==7.2.0
+pluggy==0.13.1
+psutil @ file:///C:/ci/psutil_1598370330503/work
+psycopg2 @ file:///C:/ci/psycopg2_1594305172475/work
+py @ file:///tmp/build/80754af9/py_1593446248552/work
+pyparsing==2.4.7
+pytest==6.0.2
+pytz==2020.1
+six==1.15.0
+sqlparse==0.3.1
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+typed-ast==1.4.1
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
+wincertstore==0.2
