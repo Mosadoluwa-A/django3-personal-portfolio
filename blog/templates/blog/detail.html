@@ -1,0 +1,13 @@
+
+{% extends 'portfolio/base.html' %}
+
+{% block title %} Home {% endblock %}
+
+{% block content %}
+    <h1 class="text-center mt-5" id="blogdetailtitle">{{ blogs.title }}</h1>
+
+    <h2 class="text-center text-muted mb-5">--{{ blogs.date|date:'F jS Y' }}--</h2>
+
+    {{ blogs.description|safe }}
+
+{% endblock %}
